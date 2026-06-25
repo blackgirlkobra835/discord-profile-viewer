@@ -9,7 +9,7 @@ The **👤 Discord Profile Viewer** is the most comprehensive tool for viewing d
 
 <div align="center">
 
-[![Download Discord Profile Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-profile-viewer)
+[![Download Discord Profile Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-profile-viewer)
 
 </div>
 
@@ -112,7 +112,7 @@ You want a complete profile view. All information in one place. Quick and easy.
 7. **🔢 Enter User ID** — paste Discord user ID
 8. **🔍 View Profile** — see complete profile
 
-[![Download Discord Profile Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-profile-viewer)
+[![Download Discord Profile Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-profile-viewer)
 
 ### Getting a User ID
 
@@ -213,7 +213,7 @@ Know who you're talking to. **Discord Profile Viewer** shows complete user profi
 
 <div align="center">
 
-[![Download Discord Profile Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-profile-viewer)
+[![Download Discord Profile Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-profile-viewer)
 
 **Version 4.6.1** — Complete Discord profiles. Free forever.
 
